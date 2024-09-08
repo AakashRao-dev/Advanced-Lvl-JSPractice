@@ -1,4 +1,4 @@
-## Basic Problems
+## Intermediate Problems
 
 ### 1. Sort an Array of Objects by a Property
 
