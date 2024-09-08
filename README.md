@@ -51,10 +51,10 @@
 | :-------------------------------------------------- | -----------: |
 | Sort an Array of Objects by a Property              |              |
 | Calculate the Hamming Distance                      |              |
+| Find Missing Number in an Array                     |              |
 | Find All Pairs with a Given Sum                     |              |
 | Convert Nested Objects to Flattened Object          |              |
 | Group Anagrams Together                             |              |
-| Find Missing Number in an Array                     |              |
 | Sum of All Subsets                                  |              |
 | Implement Array Difference without filter()         |              |
 | Implement Array.prototype.map                       |              |
@@ -62,6 +62,7 @@
 | Frequency Counter                                   |              |
 | FizzBuzz                                            |              |
 | Flatten a Two-Dimensional Array                     |              |
+| Factorial with Recursion                            |              |
 | Count Unique Values in Sorted Array                 |              |
 | Reverse a String Recursively                        |              |
 | Valid Parentheses                                   |              |
