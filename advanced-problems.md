@@ -74,3 +74,28 @@
 
 - Task: Implement a simple reactive system where you can track changes to an object’s properties and trigger side effects when those properties are updated.
 - Objective: Learn the basics of reactive programming and how modern JavaScript frameworks like Vue.js implement reactivity.
+
+### 16. Asynchronous Retry Mechanism
+
+- Task: Implement a function retry(func, retries, delay) that retries an asynchronous function a certain number of times before failing. Each retry should wait a given delay before attempting again.
+- Objective: Practice advanced async patterns and error handling in JavaScript.
+
+### 17. Event Emitter Class
+
+- Task: Implement an EventEmitter class that can register event listeners, emit events, and remove listeners. It should have on(event, listener), emit(event, ...args), and off(event, listener) methods.
+- Objective: Build a core JavaScript event-driven system similar to Node.js’s EventEmitter.
+
+### 18. Throttle with Leading and Trailing Edge
+
+- Task: Write a throttle(func, delay, {leading, trailing}) function where the leading option ensures the function is called on the leading edge of the timeout, and trailing ensures it’s called at the end of the timeout.
+- Objective: Master more complex control over asynchronous behavior and function execution.
+
+### 19. Custom bind Function
+
+- Task: Write a function customBind(func, thisArg, ...args) that works like Function.prototype.bind(), allowing you to bind a function to a specific context and set initial arguments.
+- Objective: Deepen understanding of function contexts (this), closures, and function currying.
+
+### 20. Longest Increasing Subsequence
+
+- Task: Write a function longestIncreasingSubsequence(arr) that returns the length of the longest strictly increasing subsequence in an array. Solve this efficiently in O(n log n) time using binary search.
+- Objective: Implement dynamic programming and advanced algorithms efficiently.

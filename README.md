@@ -95,3 +95,8 @@
 | Implement JSON.stringify                      |              |
 | Lazy Evaluation                               |              |
 | Reactive System (like Vue/Reactivity)         |              |
+| Asynchronous Retry Mechanism                  |              |
+| Event Emitter Class                           |              |
+| Throttle with Leading and Trailing Edge       |              |
+| Custom bind Function                          |              |
+| Longest Increasing Subsequence                |              |
